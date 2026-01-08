@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.container {
+    margin: 20px auto;
+    
+}
+
+input{
+    margin: 10px;
+}
